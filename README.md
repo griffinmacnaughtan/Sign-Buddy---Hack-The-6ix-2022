@@ -12,7 +12,7 @@ Welcome to Sign Buddy! This site was created to help more people learn sign lang
 Python, Flask, Bootstrap
 
 #### Methodologies:
-The front end of this project was created using Flask and Bootstrap. The two features that are used for site functionality are Buddy learn 📚 and Buddy translate🤖. Learn takes a webcam input from the user and uses an AI model to determine which sign is being shown. This was created using... Translate takes a keyboard input and if the entered word is present in our dataset of 2000 words, plays a video of that word being signed. This was created using custom made functions in Python that parse the WLASL (World Level American Sign Language) Video DataSet of over 12,000 instances of common signs and chooses a suitable video
+The front end of this project was created using Flask and Bootstrap. The two features that are used for site functionality are Buddy learn 📚 and Buddy translate🤖. Learn takes a webcam input from the user and uses an AI model to determine which sign is being shown. This was created using... Translate takes a keyboard input and if the entered word is present in our dataset of 2000 words, plays a video of that word being signed. This was created using custom made functions in Python that parse the WLASL (World Level American Sign Language) Video DataSet of over 12,000 instances of common signs and chooses a suitable video.
 
 #### Issues We Ran Into
 
