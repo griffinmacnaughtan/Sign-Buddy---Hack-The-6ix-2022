@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>H. 3a55c2ac-20ad-11ed-aec8-244bfe52a384.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\H. 3a55c2ac-20ad-11ed-aec8-244bfe52a384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>H</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>154</xmin>
+			<ymin>328</ymin>
+			<xmax>336</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>K. 3f1bf38d-20b6-11ed-8196-244bfe52a384.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\K. 3f1bf38d-20b6-11ed-8196-244bfe52a384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>K</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>157</xmin>
+			<ymin>168</ymin>
+			<xmax>289</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>

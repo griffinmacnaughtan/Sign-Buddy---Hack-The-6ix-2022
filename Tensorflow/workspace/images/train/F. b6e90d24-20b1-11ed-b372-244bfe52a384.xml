@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>F. b6e90d24-20b1-11ed-b372-244bfe52a384.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\F. b6e90d24-20b1-11ed-b372-244bfe52a384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>124</ymin>
+			<xmax>533</xmax>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+</annotation>

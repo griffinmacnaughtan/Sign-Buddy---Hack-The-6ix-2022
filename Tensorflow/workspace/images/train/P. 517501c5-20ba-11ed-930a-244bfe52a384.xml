@@ -1,0 +1,26 @@
+<annotation>
+	<folder>P</folder>
+	<filename>P. 517501c5-20ba-11ed-930a-244bfe52a384.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\P\P. 517501c5-20ba-11ed-930a-244bfe52a384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>P</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>167</xmin>
+			<ymin>247</ymin>
+			<xmax>290</xmax>
+			<ymax>323</ymax>
+		</bndbox>
+	</object>
+</annotation>

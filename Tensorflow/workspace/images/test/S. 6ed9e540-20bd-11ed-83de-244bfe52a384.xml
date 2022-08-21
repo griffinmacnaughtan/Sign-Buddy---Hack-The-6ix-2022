@@ -1,0 +1,26 @@
+<annotation>
+	<folder>S</folder>
+	<filename>S. 6ed9e540-20bd-11ed-83de-244bfe52a384.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\S\S. 6ed9e540-20bd-11ed-83de-244bfe52a384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>S</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>125</ymin>
+			<xmax>195</xmax>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

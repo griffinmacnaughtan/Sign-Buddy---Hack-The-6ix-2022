@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Space</folder>
+	<filename>Space. a3b3e036-20c5-11ed-9f95-244bfe52a384.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\Space\Space. a3b3e036-20c5-11ed-9f95-244bfe52a384.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Space</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>185</ymin>
+			<xmax>383</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

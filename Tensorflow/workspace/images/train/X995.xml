@@ -1,0 +1,14 @@
+<annotation>
+	<folder>X</folder>
+	<filename>X995.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\X\X995.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

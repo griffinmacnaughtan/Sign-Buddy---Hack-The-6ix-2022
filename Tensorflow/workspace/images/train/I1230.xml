@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>I1230.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\I1230.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>I</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>8</ymin>
+			<xmax>135</xmax>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+</annotation>

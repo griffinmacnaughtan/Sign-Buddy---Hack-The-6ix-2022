@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>C1045.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\C1045.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>42</ymin>
+			<xmax>180</xmax>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>R</folder>
+	<filename>R1145.jpg</filename>
+	<path>C:\Users\RAYMO\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\R\R1145.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>200</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>28</ymin>
+			<xmax>151</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>
