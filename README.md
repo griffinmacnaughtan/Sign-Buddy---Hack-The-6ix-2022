@@ -19,7 +19,7 @@ The front end of this project was created using Flask and Bootstrap. Two backend
 #### Issues We Ran Into
 
 #### Next Steps:
-When looking forward, this project has a bright future! Due to our scope and time constraints, we decided to train our AI model with a limited dataset compared to our available words, as more dynamic signs were harder to track and train. The 12,000 instances of words in the WLASL are a perfect dataset that will be able to train a model that can handle more dynamic and complex gestures. This idea can also be brought to mobile devices, as it would be a fitting feature for language learning apps such as DuoLingo.
+When looking forward, this project has a bright future! First of all, we ran out of time to implement a practice feature, which gives the user a random word from the dataset. The user is then prompted to enter a sign into the webcam and tries to sign the given word. Next, due to our scope and time constraints, we decided to train our AI model with a limited dataset compared to our available words, as more dynamic signs were harder to track and train. The 12,000 instances of words in the WLASL are a perfect dataset that will be able to train a model that can handle more dynamic and complex gestures. This idea can also be brought to mobile devices, as it would be a fitting feature for language learning apps such as DuoLingo.
 
 #### References:
 
