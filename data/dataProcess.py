@@ -27,6 +27,5 @@ def get_url(string):
     
     return False
      
-  #search_str('data\missing.txt') 
-print(get_url('hat'))
+print(get_url('a'))
 
