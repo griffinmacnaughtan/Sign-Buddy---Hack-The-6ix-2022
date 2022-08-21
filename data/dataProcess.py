@@ -24,15 +24,9 @@ def get_url(string):
           if('youtube' in instance_url):
             if(i['instances'][j]['frame_end'] == -1):
               return instance_url
-          # elif('youtube' in instance_url or 'youtu.be' in instance_url):
-          #   return instance_url
-        #   else:
-        #     pass
-          # what if there is no youtube url?
-      # else:
-      #   print('word not available')
-      #   return
+    
+    return False
      
   #search_str('data\missing.txt') 
-print(get_url('hello'))
+print(get_url('hat'))
 
