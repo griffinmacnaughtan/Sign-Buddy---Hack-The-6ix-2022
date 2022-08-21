@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+
+    {% block title %} Practice {% endblock %}
+   
+{% block body %}
+
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/styles.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
+    
+    <div class="navbar">
+        <a class="active" href="{{ url_for('home') }}">Home</a>
+        <a href="{{ url_for('learn') }}">Buddy Learn</a>
+        <a class="active" href="{{ url_for('translate') }}">Buddy Translate</a>
+      </div>
+    
+
+    <h1 class = "header">Buddy Translate 🤖</h1>
+    
+    <form class = "form1" action="{{ url_for('translate') }}" method="POST">
+        <input type="text" placeholder = "Enter the word here.." name="translate" class="search_bar">
+        <button type="submit" class = "submit">Submit</button>
+    </form>
+
+    <iframe class= "video" width="420" height="345" src="https://www.youtube.com/embed/{{vid}}?playlist={{vid}}&loop=1&mute=1&autoplay=1&disablekb=1&controls=0&rel=0" frameborder="0" allowfullscreen></iframe>
+
+     
+{% endblock %} 

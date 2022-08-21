@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+    {% block title %} Learn {% endblock %}
+   
+{% block body %}
+
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/styles.css') }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename= 'css/styles.css') }}">
+    
+    <div class="navbar">
+        <a href="{{ url_for('home') }}">Home</a>
+        <a class="active" href="{{ url_for('learn') }}">Buddy Learn</a>
+        <a href="{{ url_for('translate') }}">Buddy Translate</a>
+      </div>
+    
+
+    <h1 class="header">Buddy Learn 📚</h1>
+
+{% endblock %}
